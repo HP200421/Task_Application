@@ -1,2 +1,2 @@
 # tasky-appl
-#project day 1=> initail setup
+#project day 1=> initial setup
